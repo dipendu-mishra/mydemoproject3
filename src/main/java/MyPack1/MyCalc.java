@@ -13,5 +13,6 @@ public class MyCalc {
 	public static void main(String[] args) {		
 		MyCalc myCalc=new MyCalc();
 		System.out.println("Sum:"+myCalc.sum(10,20));
+		System.out.println("Mul:"+myCalc.mul(10,20));
 	}
 }
